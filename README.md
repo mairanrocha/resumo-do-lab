@@ -4,6 +4,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 A computação em nuvem é um modelo que oferece recursos de TI sob demanda pela internet, como servidores, armazenamento, bancos de dados, redes e software, sem a necessidade de infraestrutura física local. Seus principais benefícios incluem escalabilidade, redução de custos, flexibilidade e alta disponibilidade.
 
 Microsoft Azure
+
 O Azure é a plataforma de nuvem da Microsoft, fornecendo uma ampla gama de serviços para empresas e desenvolvedores. Algumas funcionalidades principais incluem:
 
 Infraestrutura como Serviço (IaaS)
